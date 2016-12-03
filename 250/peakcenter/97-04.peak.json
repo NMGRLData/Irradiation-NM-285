@@ -1,0 +1,32 @@
+{
+    "AX": {
+        "center_dac": 5.8800254331749491, 
+        "center_signal": 311.60449288369279, 
+        "high_dac": 5.887269922152905, 
+        "high_signal": 228.70926581032518, 
+        "low_dac": 5.8727809441969931, 
+        "low_signal": 229.33679129627899, 
+        "points": "QLuuCz4JlLJAu7I1PnSeAEC7tl8+z34YQLu6ij8L6XBAu760P4XaeUC7wt8/8Ud8QLvHCUBX6ctAu8szQMA9BUC7z15BLGP3QLvTiEGXYjFAu9eyQgH/PEC7291CVSr0QLvgB0KkenhAu+QxQus38EC76FxDMkK1QLvshkNak29Au/CwQ30bjUC79NtDiu+LQLv5BUOTAy5Au/0vQ5eKgkC8AVpDme95QLwFhEObFHlAvAmuQ5uFNUC8DdlDm8CDQLwSA0ObzXxAvBYtQ5uW6UC8GlhDm7PuQLwegkObrl9AvCKtQ5ujFEC8JtdDm4Y5QLwrAUObhzVAvC8sQ5upbUC8M1ZDm2oWQLw3gEObf/JAvDurQ5tTn0C8P9VDmy9KQLxD/0Oa/ldAvEgqQ5qkEEC8TFRDmjSTQLxQfkOZDeBAvFSpQ5ddyEC8WNNDlAB/QLxc/UOLFzlAvGEoQ39ku0C8ZVJDXk/LQLxpfEM1JupAvG2nQweRpEC8cdFCttEaQLx1/EJhv6pAvHomQf8m30C8flBBfStuQLyCe0DuEnNAvIalQDod2UC8is8/gC4TQLyO+j5LRV1AvJMkvWD2FUC8l06+cfvyQLybeb5ChkdAvJ+jvipjDUC8o82+KnUW"
+    }, 
+    "CDD": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QLuuCwAAAABAu7I1AAAAAEC7tl8AAAAAQLu6igAAAABAu760AAAAAEC7wt85mrN2QLvHCQAAAABAu8szOZqzdkC7z145mrN2QLvTiDmas3ZAu9eyOZqzdkC72905mrN2QLvgBzoas3ZAu+QxOmgNMUC76Fw6aA0xQLvshjtBYFVAu/CwOxqzd0C79Ns7QWBVQLv5BTuas3lAu/0vO64J6EC8AVo8N7UkQLwFhDwy34hAvAmuPHG4d0C8Ddk8jp17QLwSAzydHlBAvBYtPLB0wkC8Glg82/dEQLwegjzP4TxAvCKtPK4J9EC8Jtc8uh/7QLwrATzs4ulAvC8sPQO85EC8M1Y8/c6OQLw3gDzZjHZAvDurPOWifkC8P9U8ywufQLxD/zzlon5AvEgqPLof+0C8TFQ84MzhQLxQfjzP4TxAvFSpPM/hPEC8WNM8wWBmQLxc/TzNdm5AvGEoPL71mEC8ZVI84zevQLxpfDyrnyZAvG2nPODM4UC8cdE8xjYDQLx1/DydHlBAvHomPJXd5UC8flA8aA0+QLyCezxBYFxAvIalO+gNN0C8is87mrN5QLyO+jt7Y6NAvJMkO0FgVUC8l047B10IQLybeTpoDTFAvJ+jOsFgVEC8o806mrN2"
+    }, 
+    "H1": {
+        "center_dac": 5.8799953730547081, 
+        "center_signal": 1638.559887983394, 
+        "high_dac": 5.8877508840767518, 
+        "high_signal": 1205.9353880588069, 
+        "low_dac": 5.8722398620326643, 
+        "low_signal": 1215.7987452624302, 
+        "points": "QLuuCz+STE5Au7I1P7WFjEC7tl9AEibMQLu6ikB47/dAu760QORJBEC7wt9BWckYQLvHCUHQ5w1Au8szQkYGdEC7z15CtM0OQLvTiEMeF8tAu9eyQ4QaUEC7291D0YCRQLvgB0QaktBAu+QxRFGXKEC76FxEkkwwQLvshkSpPIVAu/CwRLlxgkC79NtEwyTRQLv5BUTIV+NAu/0vRMsf80C8AVpEzDxAQLwFhETMlyhAvAmuRMzHLEC8DdlEzNKhQLwSA0TMtS1AvBYtRMyn70C8GlhEzI96QLwegkTMdTJAvCKtRMxxvkC8JtdEzG4uQLwrAUTMUNhAvC8sRMwwXEC8M1ZEzCTrQLw3gETMGc5AvDurRMvxFUC8P9VEy9XwQLxD/0TLr2ZAvEgqRMuJXkC8TFREyyzoQLxQfkTKkaFAvFSpRMk9yUC8WNNExryXQLxc/US/Z9tAvGEoRLXFqkC8ZVJEprUOQLxpfESRfbNAvG2nRGxkP0C8cdFELuqTQLx1/EPsrztAvHomQ5JS5kC8flBDIZOgQLyCe0KipYhAvIalQhdP7kC8is9BgrLXQLyO+kDPykNAvJMkQBKThEC8l04/OM59QLybeT5HV4pAvJ+jPlcTmUC8o80+hCMy"
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "H1", 
+    "reference_isotope": "Ar40"
+}
